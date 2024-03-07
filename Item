@@ -1,0 +1,13 @@
+#include "Item.h"
+using namespace std;
+#include<iostream>
+
+static int delivery = 0;
+static int Tip = 0;
+ //public:int delivery = 0;
+struct Item
+{
+
+public: int Delviery = 0;
+public:int tip = 0;
+};
